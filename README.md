@@ -24,9 +24,10 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=web-devmonir )  
 
+![GitHub metrics](https://metrics.lecoq.io/web-devmonir )  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=web-devmonir )  
 
-![GitHub metrics](https://metrics.lecoq.io/web-devmonir )  
 
 
 
